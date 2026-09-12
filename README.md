@@ -1,4 +1,4 @@
-# Hallo, ich bin Alexander 👋
+# Hi, I'm Alex 👋
 
 I'm a software engineer at **[Cambioo AI](https://cambioo.ai)** in Vienna. We build an AI phone assistant for property managers (Hausverwaltungen): it picks up every call, understands who is calling and about which building, and turns the conversation into tickets, callbacks and reports the team can act on, day or night.
 
