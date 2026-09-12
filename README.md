@@ -11,7 +11,7 @@ I'm a software engineer at **[Cambioo AI](https://cambioo.ai)** in Vienna. We bu
 ### 🛠 What I've built
 
 🌐 **[Branch](https://social-branch.com)** — Cross-platform social network for U.S. college athletics. Mobile app, admin web app, internal HQ platform. *(Co-Founder & CTO)*  
-🏠 **[MieteMate](https://mietemate.com)** — Real-time Vienna rental market analytics with AI assistant. Next.js, Supabase, OpenAI.  
+🏠 **MieteMate** — Real-time Vienna rental market analytics with AI assistant. Next.js, Supabase, OpenAI.  
 🐇 **Steuerhase** — RAG-based research copilot for Austrian tax law. Multi-tenant SaaS for tax firms.  
 🏗 **ImmoRadar** — Web scraper for Austrian real estate listing data. Python.  
 🎾 **TennisMail AI** — AI-powered email management for tennis clubs. Gmail OAuth, OpenAI, Supabase.  
