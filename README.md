@@ -1,14 +1,14 @@
 # Hallo, ich bin Alexander 👋
 
-I build **[Cambioo AI](https://cambioo.ai)** in Vienna: an AI phone assistant for property managers (Hausverwaltungen). It picks up every call, understands who is calling and about which building, and turns the conversation into tickets, callbacks and reports the team can act on, day or night.
+I'm a software engineer at **[Cambioo AI](https://cambioo.ai)** in Vienna. We build an AI phone assistant for property managers (Hausverwaltungen): it picks up every call, understands who is calling and about which building, and turns the conversation into tickets, callbacks and reports the team can act on, day or night.
 
 ## What I'm working on right now
 
-- **The customer dashboard** — a Next.js app where property managers see what happened today, which buildings drive the calls, and what the assistant took off their plate. Recently rebuilt the overview as a scrollable "Lagebild" and merged the integrations setup into one page.
+- **The customer dashboard** — the Next.js app where property managers see what happened today, which buildings drive the calls, and what the assistant took off their plate. My recent work there: the overview rebuilt as a scrollable "Lagebild", and the integrations setup merged into one page.
 - **Integrations** with property-management systems (casavi, idWELL, ETG24, Excel/CSV and a dozen more), so the assistant knows tenants, units and contacts before the caller finishes their first sentence.
-- **Agent-driven development** — most of my day is planning, reviewing and shipping with coding agents: plans with a definition of done per task, one task per commit, and docs that get fixed in the same commit as the code.
+- **Agent-driven development** — a good part of my day is planning, reviewing and shipping with coding agents: plans with a definition of done per task, one task per commit, and docs fixed in the same commit as the code.
 
-## Stack I live in
+## Stack I work in
 
 | Layer | Tools |
 |---|---|
